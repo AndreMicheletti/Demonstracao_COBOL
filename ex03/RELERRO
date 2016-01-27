@@ -1,0 +1,9 @@
+                                                                                
+                         RELAÇÃO DE MERCADORIAS                        PÁG.   1 
+
+                          ERROS DE ATUALIZAÇÃO                                  
+   CODIGO      DESCRIÇÃO                          MENSAGEM                      
+                                                                                
+    003      INCLUIR ESSE                        INCLUSÃO DE REG. JA EXISTENTE  
+    008      DELETAR ESSE                        EXCLUSÃO DE REG NAO EXISTENTE  
+    008      ALTERAR ESSE                        ALTERAÇÃO DE REG NAO EXISTENTE 
